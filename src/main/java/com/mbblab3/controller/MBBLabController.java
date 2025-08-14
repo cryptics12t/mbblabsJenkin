@@ -22,7 +22,7 @@ public class MBBLabController {
 			e1.setAddress("Bangalore");
 			
 			Employee e2=new Employee();
-			e2.setName("Simi");
+			e2.setName("test");
 			e2.setPassword("abcd1");
 			e2.setEmail("abc1@gmail.com");
 			e2.setAddress("Bangalore1");
